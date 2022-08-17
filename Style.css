@@ -1,0 +1,89 @@
+p{
+   text-align: center;
+   color: rgb(247, 218, 57); 
+       }
+
+#Allen{
+    text-align: center;
+    color: rgb(26, 46, 134);
+    font-family: 'Silkscreen', cursive;
+    font-size: 1.5em;
+    }
+
+#AllenWalker{
+    text-align: center;
+    color: rgb(196, 25, 25);
+    font-size: 2em;
+    }
+
+.cuadro{
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    }
+
+*{
+    margin: 100;
+    padding: 40;
+    font-size: 10px;
+    }
+
+#kanda:hover{
+    background-color: blueviolet;
+    }
+
+li:first-child{
+    background-color: crimson;
+    }
+
+#bakanda:focus{
+    background-color: darkred;
+    }
+
+#s1{
+    background-color: rgba(156, 30, 30, 0.582);
+    padding: 30px;
+    margin: 10px;
+    display: block;
+    }
+
+#s2{
+    background-color: #000000;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+    display: block;
+    }
+
+#s3{
+    background-color: blue;
+    color: #ffffff;
+    padding: 30px;
+    margin: 10px;
+    display: block;
+    }
+
+.Arca{
+    height:600px;
+    width: 400px;
+    border: 15px groove rgb(185, 38, 38);
+    background-image: url("tim.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: #ffffff;
+    align-self: center;
+    border-radius: 30px;
+    }
+
+#title{
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+    color:#000000;
+    font-size: 4em;
+    }
+
+/*nice*/
+
+    
