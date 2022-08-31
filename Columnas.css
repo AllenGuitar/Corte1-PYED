@@ -1,0 +1,19 @@
+.container{
+    background-color: rgba(7, 7, 119, 0.712);
+    display: flex;
+    flex-flow: row wrap;
+  
+    justify-content: center;/*elementos horizontalmente*/
+    width: 300px;
+    height: 200px;
+    align-content: space-between;/*elementos alineados verticamlente*/
+}
+
+.item{
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+    border: 2px;
+    border-style: double;
+    border-color: black;
+}
