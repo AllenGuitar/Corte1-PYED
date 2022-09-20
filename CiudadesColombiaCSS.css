@@ -15,13 +15,15 @@ body{
     height: 1200px;
     margin-top: -100px;
     margin-left: 80px;
+   
     
 }
 
 .ciudadescont{
-    position: relative;
+    
   display: flex;
-  width: 1200px;
+  position: relative;
+  width: auto;
   flex-wrap: wrap;
   flex-direction: row;
   column-gap: 10px;
@@ -107,4 +109,21 @@ margin-top: 100px;
     margin-bottom: 250px;
     margin-top: 50px;
     transition: all .3s ease-in-out;
+}
+
+
+.cc{
+    flex-shrink: 10;
+}
+
+.cc2{
+    flex-shrink: 3;
+}
+
+.cc3{
+    flex-shrink: 3;
+}
+
+.cc4{
+    flex-shrink: 4;
 }
