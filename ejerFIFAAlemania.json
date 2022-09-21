@@ -34,14 +34,13 @@
         }      
             ],
     "Estadio":
-    [
-        {
+            {
             "Nombre":"Allianz Arena",
             "Apodo":"Fußball Arena München",
             "Localidad":"Munich",
             "Capacidad":75024
         }
-    ],
+    ,
 
     "Jugadores":[
         {
