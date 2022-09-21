@@ -1,16 +1,9 @@
     {
     "Nombre":"Bundesliga",
-    "NombrePais":"Alemania",
-    "NombreAlternativo":{
-        "Nombre1":"Deutschland",
-        "Nombre2":"German",
-        "Nombre3":"Tierra de los Teutones"},
-    "Color":{
-        "Color1":"Negro",
-        "Color2":"Rojo",
-        "Color3":"Oro"
-            },
-    "TitulosGanados":[
+    "Nombre_Pais":"Alemania",
+    "Nombre_Alternativo":["Deutschland","German","Tierra de los Teutones"],
+    "Color":["Negro","Rojo","Oro"],
+    "Titulos_Ganados":[
         {
             "Titulo":"Mundial 1954",
             "Año":1954
@@ -29,11 +22,12 @@
         }
 
     ],
-    "NombreCapitan":"Manuel Neuer",
-    "NombreEntrenador":"Hansi Flick",
+
+    "Nombre_Capitan":"Manuel Neuer",
+    "Nombre_Entrenador":"Hansi Flick",
     "Logo":"http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1894.png",
     "Abreviacion":"ALE",
-    "Goleadores":[
+    "Goleador":[
         {
             "Nombre":"Sheraldo-Becker",
             "NumeroDeGoles":6
@@ -55,10 +49,10 @@
             "Apellido":"Neuer",
             "Edad":36,
             "Altura":193,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Portero",
-            "ClubActual":"Bayern",
-            "NumeroCamiseta":1
+            "Club_Actual":"Bayern",
+            "Numero_Camiseta":1
         },
 
         {
@@ -66,10 +60,10 @@
             "Apellido":"Rüdiger",
             "Edad":29,
             "Altura":190,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Defensa",
-            "ClubActual":"Real-Madrid",
-            "NumeroCamiseta":2
+            "Club_Actual":"Real-Madrid",
+            "Numero_Camiseta":2
         },
 
         {
@@ -77,10 +71,10 @@
             "Apellido":"Ginter",
             "Edad":28,
             "Altura":191,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Defensa",
-            "ClubActual":"Friburgo",
-            "NumeroCamiseta":4
+            "Club_Actual":"Friburgo",
+            "Numero_Camiseta":4
         },
 
         {
@@ -88,10 +82,10 @@
             "Apellido":"Hummels",
             "Edad":33,
             "Altura":191,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Defensa",
-            "ClubActual":"B.Dortmund",
-            "NumeroCamiseta":5
+            "Club_Actual":"B.Dortmund",
+            "Numero_Camiseta":5
         },
 
         {
@@ -99,10 +93,10 @@
             "Apellido":"Klostermann",
             "Edad":26,
             "Altura":187,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Defensa",
-            "ClubActual":"RB-Leipzig",
-            "NumeroCamiseta":16
+            "Club_Actual":"RB-Leipzig",
+            "Numero_Camiseta":16
         },
 
         {
@@ -110,10 +104,10 @@
             "Apellido":"Kimmich",
             "Edad":27,
             "Altura":177,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Centrocampista",
-            "ClubActual":"Bayern",
-            "NumeroCamiseta":6
+            "Club_Actual":"Bayern",
+            "Numero_Camiseta":6
         },
 
         {
@@ -121,10 +115,10 @@
             "Apellido":"Havertz",
             "Edad":23,
             "Altura":188,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Centrocampista",
-            "ClubActual":"Chelsea",
-            "NumeroCamiseta":7
+            "Club_Actual":"Chelsea",
+            "Numero_Camiseta":7
         },
 
         {
@@ -132,10 +126,10 @@
             "Apellido":"Musiala",
             "Edad":19,
             "Altura":180,
-            "LugarDeNacimiento":"Inglaterra",
+            "Lugar_De_Nacimiento":"Inglaterra",
             "Posicion":"Centrocampista",
-            "ClubActual":"Bayern",
-            "NumeroCamiseta":14
+            "Club_Actual":"Bayern",
+            "Numero_Camiseta":14
         },
 
         {
@@ -143,10 +137,10 @@
             "Apellido":"Günter",
             "Edad":29,
             "Altura":184,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Centrocampista",
-            "ClubActual":"Friburgo",
-            "NumeroCamiseta":26
+            "Club_Actual":"Friburgo",
+            "Numero_Camiseta":26
         },
 
         {
@@ -154,10 +148,10 @@
             "Apellido":"Sane",
             "Edad":26,
             "Altura":183,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Delantero",
-            "ClubActual":"Bayern",
-            "NumeroCamiseta":19
+            "Club_Actual":"Bayern",
+            "Numero_Camiseta":19
         },
 
         {
@@ -165,10 +159,10 @@
             "Apellido":"Volland",
             "Edad":30,
             "Altura":179,
-            "LugarDeNacimiento":"Alemania",
+            "Lugar_De_Nacimiento":"Alemania",
             "Posicion":"Delantero",
-            "ClubActual":"Mónaco",
-            "NumeroCamiseta":9
+            "Club_Actual":"Mónaco",
+            "Numero_Camiseta":9
         }
 
     ]
