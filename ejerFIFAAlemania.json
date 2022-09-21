@@ -1,0 +1,179 @@
+    {
+    "Nombre":"Bundesliga",
+    "NombrePais":"Alemania",
+    "NombreAlternativo":{
+        "Nombre1":"Deutschland",
+        "Nombre2":"German",
+        "Nombre3":"Tierra de los Teutones"},
+    "Color":{
+        "Color1":"Negro",
+        "Color2":"Rojo",
+        "Color3":"Oro"
+            },
+    "TitulosGanados":[
+        {
+            "Titulo":"Mundial 1954",
+            "Año":1954
+        },
+        {
+            "Titulo":"Mundial 1974",
+            "Año":1974
+        },
+        {
+            "Titulo":"Mundial 1990",
+            "Año":1990
+        },
+        {
+            "Titulo":"Mundial 2014",
+            "Año":2014
+        }
+
+    ],
+    "NombreCapitan":"Manuel Neuer",
+    "NombreEntrenador":"Hansi Flick",
+    "Logo":"http://as01.epimg.net/img/comunes/fotos/fichas/equipos/large/1894.png",
+    "Abreviacion":"ALE",
+    "Goleadores":[
+        {
+            "Nombre":"Sheraldo-Becker",
+            "NumeroDeGoles":6
+        }      
+            ],
+    "Estadio":
+    [
+        {
+            "Nombre":"Allianz Arena",
+            "Apodo":"Fußball Arena München",
+            "Localidad":"Munich",
+            "Capacidad":75024
+        }
+    ],
+
+    "Jugadores":[
+        {
+            "Nombre":"Manuel",
+            "Apellido":"Neuer",
+            "Edad":36,
+            "Altura":193,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Portero",
+            "ClubActual":"Bayern",
+            "NumeroCamiseta":1
+        },
+
+        {
+            "Nombre":"Antonio",
+            "Apellido":"Rüdiger",
+            "Edad":29,
+            "Altura":190,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Defensa",
+            "ClubActual":"Real-Madrid",
+            "NumeroCamiseta":2
+        },
+
+        {
+            "Nombre":"Matthias",
+            "Apellido":"Ginter",
+            "Edad":28,
+            "Altura":191,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Defensa",
+            "ClubActual":"Friburgo",
+            "NumeroCamiseta":4
+        },
+
+        {
+            "Nombre":"Mats",
+            "Apellido":"Hummels",
+            "Edad":33,
+            "Altura":191,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Defensa",
+            "ClubActual":"B.Dortmund",
+            "NumeroCamiseta":5
+        },
+
+        {
+            "Nombre":"Lukas",
+            "Apellido":"Klostermann",
+            "Edad":26,
+            "Altura":187,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Defensa",
+            "ClubActual":"RB-Leipzig",
+            "NumeroCamiseta":16
+        },
+
+        {
+            "Nombre":"Joshua",
+            "Apellido":"Kimmich",
+            "Edad":27,
+            "Altura":177,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Centrocampista",
+            "ClubActual":"Bayern",
+            "NumeroCamiseta":6
+        },
+
+        {
+            "Nombre":"Kai",
+            "Apellido":"Havertz",
+            "Edad":23,
+            "Altura":188,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Centrocampista",
+            "ClubActual":"Chelsea",
+            "NumeroCamiseta":7
+        },
+
+        {
+            "Nombre":"Jamal",
+            "Apellido":"Musiala",
+            "Edad":19,
+            "Altura":180,
+            "LugarDeNacimiento":"Inglaterra",
+            "Posicion":"Centrocampista",
+            "ClubActual":"Bayern",
+            "NumeroCamiseta":14
+        },
+
+        {
+            "Nombre":"Christian",
+            "Apellido":"Günter",
+            "Edad":29,
+            "Altura":184,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Centrocampista",
+            "ClubActual":"Friburgo",
+            "NumeroCamiseta":26
+        },
+
+        {
+            "Nombre":"Leroy",
+            "Apellido":"Sane",
+            "Edad":26,
+            "Altura":183,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Delantero",
+            "ClubActual":"Bayern",
+            "NumeroCamiseta":19
+        },
+
+        {
+            "Nombre":"Kevin",
+            "Apellido":"Volland",
+            "Edad":30,
+            "Altura":179,
+            "LugarDeNacimiento":"Alemania",
+            "Posicion":"Delantero",
+            "ClubActual":"Mónaco",
+            "NumeroCamiseta":9
+        }
+
+    ]
+
+    
+
+    }
+            
