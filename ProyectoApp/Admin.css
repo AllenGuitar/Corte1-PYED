@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    position: absolute;
+}
+
+body{
+    display: flex;
+    position: relative;
+    
+    
+}
+#menu{
+    display: flex;
+    width: 200px;
+    height: 1200px;
+    background-color: #15a735;
+    position: sticky;
+    
+    
+}
+
+#headerimg{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+#form{
+    width: 500px;
+    height: 1200px;
+    margin-left: 300px;
+
+ 
+}

@@ -5,6 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="StylePage.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="shortcut icon" href="logootravezyoquesejaja.png" type="image/x-icon">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Narrow:wght@600;700&family=Julius+Sans+One&display=swap" rel="stylesheet">
     <title>Movilidadxdoalgoasi</title>
 </head>
 <body>
@@ -12,10 +16,22 @@
     <div class="Header">
         <img src="logootravezyoquesejaja.png" alt="Aca va el logo" id="logmain">
     
-        <input type="button" value="Marcas">
-        <input type="button" value="Rutas">
-        <input type="button" value="Paradas">
-        <input type="search" name="Search" id="buscador">
+        <nav role="navigation" >
+            <ul>
+              <li><a href="#">Rutas</a></li>
+              <li><a href="#" aria-haspopup="true">Marcas</a>
+                <ul class="dropdown" aria-label="submenu">
+                  <li><a href="#">Coomofu</a></li>
+                  <li><a href="#">Expreso del sol</a></li>
+                  <li><a href="#">Teusaca</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Paradas</a></li>
+            </ul>
+          </nav>
+        <input type="search" name="Search" id="buscador" placeholder="Buscar">
+
+        <a href="LoginPage.html" id="admin">Admin</a>
         
         
 
@@ -31,7 +47,17 @@
             <a href="">test1</a>
             <a href="">test2</a>
         </div>
-        <div id="pages"></div>
+        <div class="menn">
+        <div>Rutas que pasan por Mosquera</div><br>
+            <div>Tarifas de las Rutas</div><br>
+            <div>Horario de informacion</div><br>
+            <div>Telefonos de Contacto</div> <br>
+
+        </div>
+
+        <div id="pages">
+               
+        </div>
 
     </div>
 <hr>
@@ -39,6 +65,13 @@
         <div id="logo">
             <img src="logootravezyoquesejaja.png" alt="Aca va el logo" id="logfoot">
         </div>
+
+        <p>
+            <b>Telefono:</b> 3203996266.<br>
+            <b>Email de Contacto:</b> contactomovimosquera.com<br>
+            <b>Facebook:</b> MoviMosquera<br>
+            <b>Instagram:</b> Movi_Mosquera
+        </p>
 
         
     </div>
