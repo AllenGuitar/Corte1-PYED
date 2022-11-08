@@ -23,7 +23,31 @@ let rutas = [
         Nombre: "Teusaca",
         Paradero: "Auditorio",
         Destino:"Calle 13",
-        Horario:"Auditorio",
+        Horario:"4 a 17",
+    },
+    {
+        Nombre: "Cootranscota",
+        Paradero: "Parque Principal",
+        Destino:"Cota",
+        Horario:"9 a 22",
+    },
+    {
+        Nombre: "Cootranrosal",
+        Paradero: "Parque Principal",
+        Destino:"El rosal",
+        Horario:"7 a 20",
+    },
+    {
+        Nombre: "Coomofu municipal",
+        Paradero: "La virgen",
+        Destino:"Coolsubsidio",
+        Horario:"6 a 18",
+    },
+    {
+        Nombre: "Teusaca poblado",
+        Paradero: "Parque Principal",
+        Destino:"Poblado",
+        Horario:"9 a 20",
     }
 ]
 
